@@ -1,5 +1,5 @@
 # CluStream
-A Full Implementation of the [CluStream](http://www.vldb.org/conf/2003/papers/S04P02.pdf) Algorithm (online&offline) based on scikit-learn.
+A Full Python Implementation of the [CluStream](http://www.vldb.org/conf/2003/papers/S04P02.pdf) Algorithm (online&offline) based on scikit-learn.
 
 ## Usage
 
